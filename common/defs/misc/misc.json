@@ -187,5 +187,16 @@
             "Homepage": "https://tether.to"
         },
         "wallet": {}
+    },
+    {
+        "name": "MobileCoin",
+        "shortcut": "MOB",
+        "slip44": 866,
+        "curve": "ristretto",
+        "decimals": 4,
+        "limks": {
+            "Homepage": "https://www.mobilecoin.com",
+            "Github": "https://github.com/mobilecoinofficial"
+        }
     }
 ]

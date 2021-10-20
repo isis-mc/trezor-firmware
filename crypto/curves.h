@@ -37,5 +37,6 @@ extern const char ED25519_SHA3_NAME[];
 extern const char ED25519_KECCAK_NAME[];
 #endif
 extern const char CURVE25519_NAME[];
+extern const char RISTRETTO_NAME[];
 
 #endif
